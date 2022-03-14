@@ -10,4 +10,4 @@ const log = pino({
   }
 });
 
-export const loggger = log;
+export const logger = log;
